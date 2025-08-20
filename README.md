@@ -125,9 +125,6 @@ Senior Flutter Developer with **4+ years of experience** specializing in high-pe
 - 🚀 Exploring **cross-platform development innovations**
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ---
