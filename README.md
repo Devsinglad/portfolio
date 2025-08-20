@@ -125,9 +125,7 @@ Senior Flutter Developer with **4+ years of experience** specializing in high-pe
 - 🚀 Exploring **cross-platform development innovations**
 
 <br clear="both">
-###
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devsinglad&label=Profile%20views&color=0e75b6&style=flat" alt="devsinglad" />
