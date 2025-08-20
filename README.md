@@ -126,7 +126,7 @@ Senior Flutter Developer with **4+ years of experience** specializing in high-pe
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/devsinglad/devsinglad/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 
